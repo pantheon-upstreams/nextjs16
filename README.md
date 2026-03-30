@@ -135,7 +135,6 @@ nextjs-v16-upstream/
 │   ├── file.svg
 │   ├── globe.svg
 │   ├── next.svg
-│   ├── vercel.svg
 │   └── window.svg
 ├── .gitignore               # Git ignore file
 ├── cacheHandler.ts          # Legacy cache handler (ISR, route handlers, fetch)
