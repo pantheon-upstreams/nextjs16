@@ -33,8 +33,8 @@ This template includes Next.js 16 with the following enhancements:
 
 ### Features
 
-- Next.js 16.1.6 with Turbopack (default bundler)
-- React 19.2.0
+- Next.js 16.3.6 with Turbopack (default bundler)
+- React 19.3.0
 - TypeScript 5
 - Pantheon cache handler with auto-detection (GCS/file-based)
 - Minimal and unopinionated (no styling framework)
